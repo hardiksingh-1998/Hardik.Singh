@@ -1,3 +1,3 @@
 # Hardik.Singh
-author - hardik singh
+Author - Hardik Singh.
 This is my repository
